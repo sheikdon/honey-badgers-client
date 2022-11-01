@@ -34,9 +34,6 @@ const ActivityPage = ({ notes, setNoteList, id, setId }) => {
 // const ActivityPage = ({ user, msgAlert}) => (
 return (
 
-
-
-const ActivityPage = ({user, msAlert}) => (
     
     // [open, setOpen] = React.useState(false)
     

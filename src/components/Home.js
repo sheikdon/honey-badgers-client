@@ -3,7 +3,6 @@ import ActivityPage from "./ActivityPage/ActivityPage"
 
 import HomeFeed from "./HomeFeed/HomeFeed"
 import LoginPage from "./LoginPage/LoginPage"
-import NotesApp from "./Notes/NoteApp"
 import IndexActivity from "./ActivityPage/IndexActivity"
 
 
